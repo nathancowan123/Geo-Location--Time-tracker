@@ -12,7 +12,7 @@ Features
 - Admin to Employee Security Structure: Create Employee's, Locations, and Work Day-Start-Times for each employee individually 
 - A Private Solution for Your Company
 
-Thannk You and Please Enjoy, 
+Thank You and Please Enjoy, 
 
 One Less Thing,
 
